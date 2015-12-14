@@ -1,0 +1,16 @@
+li {
+    display: inline;
+   
+}
+header {
+ background-color: #A80036;  
+border: 10px black;
+padding: 35px;
+}
+
+body {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #EECBD6; 
+
+}

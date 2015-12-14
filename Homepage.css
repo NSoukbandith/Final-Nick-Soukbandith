@@ -1,0 +1,16 @@
+ ul{
+    display: inline-block;
+   
+}
+
+header {
+ background-color: #A80036;  
+border: 20px black;
+padding: 35px;
+}
+
+body {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #EECBD6; 
+}
